@@ -46,7 +46,7 @@ git
 ##### Installation
 For all distros:
 ```bash
-git clone https://github.com/lwfinger/rtw8852be.git
+git clone https://github.com/Feanor13/rtw8852be.git
 cd rtw8852be
 make
 sudo make install
@@ -55,7 +55,7 @@ sudo make install
 ##### Installation with module signing for SecureBoot
 For all distros:
 ```bash
-git clone git://github.com/lwfinger/rtw8852be.git
+git clone git://github.com/Feanor13/rtw8852be.git
 cd rtw8852be
 make
 sudo make sign-install
@@ -109,7 +109,7 @@ Remember, this MUST be done whenever you get a new kernel - no exceptions.
 ##### Installation with module signing for SecureBoot
 For all distros:
 ```bash
-git clone git://github.com/lwfinger/rtw8852be.git
+git clone git://github.com/Feanor13/rtw8852be.git
 cd rtw8852be
 make
 sudo make sign-install
