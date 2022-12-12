@@ -1,5 +1,7 @@
 # rtw8852be
-Linux driver for RTW8852BE PCIe card
+Hi! This is a copy of delited repository from https://github.com/lwfinger/rtw8852be
+ Linux driver for RTW8852BE PCIe card
+
 
 ---
 The Bluetooth and Wifi devices are **separate interfaces on the same chip**. 
